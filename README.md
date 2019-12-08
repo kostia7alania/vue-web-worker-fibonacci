@@ -1,5 +1,7 @@
 # vue-webworkers
+<img src="./dist/img/vue-worker.png">
 
+<img src="./dist/img/screen-vue-worker.png">
 ## Project setup
 ```
 yarn install
