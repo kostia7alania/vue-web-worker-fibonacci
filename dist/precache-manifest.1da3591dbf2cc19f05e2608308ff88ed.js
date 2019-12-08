@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdce9d5987f8a4a15e12",
-    "url": "/vue-web-worker-fibonacci/dist/css/app.cf5d6904.css"
+    "revision": "4db1a04406eb9fb2a768",
+    "url": "/vue-web-worker-fibonacci/dist/css/app.css"
   },
   {
-    "revision": "6c981b889e982a7cfc1f",
-    "url": "/vue-web-worker-fibonacci/dist/css/chunk-1e2e2a59.830465ea.css"
+    "revision": "fde8f0c58554f299e136",
+    "url": "/vue-web-worker-fibonacci/dist/css/chunk-1e2e2a59.css"
   },
   {
     "revision": "82b9c7a5a3f405032b1db71a25f67021",
-    "url": "/vue-web-worker-fibonacci/dist/img/logo.82b9c7a5.png"
+    "url": "/vue-web-worker-fibonacci/dist/img/logo.png"
   },
   {
     "revision": "34bf21d5b5b6788018db2c11ea72d8db",
@@ -20,24 +20,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-web-worker-fibonacci/dist/img/vue-worker.png"
   },
   {
-    "revision": "95124b481cea70ea12f788847d465600",
+    "revision": "41d266628ef071cdf655a41c877e1439",
     "url": "/vue-web-worker-fibonacci/dist/index.html"
   },
   {
-    "revision": "fdce9d5987f8a4a15e12",
-    "url": "/vue-web-worker-fibonacci/dist/js/app.34908909.js"
+    "revision": "4db1a04406eb9fb2a768",
+    "url": "/vue-web-worker-fibonacci/dist/js/app.js"
   },
   {
-    "revision": "6c981b889e982a7cfc1f",
-    "url": "/vue-web-worker-fibonacci/dist/js/chunk-1e2e2a59.32678b3c.js"
+    "revision": "fde8f0c58554f299e136",
+    "url": "/vue-web-worker-fibonacci/dist/js/chunk-1e2e2a59.js"
   },
   {
     "revision": "33bc772dd98dc047e88a",
-    "url": "/vue-web-worker-fibonacci/dist/js/chunk-83ecd3ea.6643c930.js"
+    "url": "/vue-web-worker-fibonacci/dist/js/chunk-83ecd3ea.js"
   },
   {
     "revision": "c18d0528408e21e36093",
-    "url": "/vue-web-worker-fibonacci/dist/js/chunk-vendors.c2e373e2.js"
+    "url": "/vue-web-worker-fibonacci/dist/js/chunk-vendors.js"
   },
   {
     "revision": "7a7cd6339c732cba6c65b1215643ed41",

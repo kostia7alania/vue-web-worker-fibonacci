@@ -1,13 +1,12 @@
 const isDev = process.env.NODE_ENV == "development";
 module.exports = {
         publicPath: process.env.NODE_ENV === 'production' ?
-            '/vue-web-worker-fibonacci/dist' : '/'
-            /*publicPath: isDev ? "./" : "/dist",
-            assetsDir: "./", // "./", //По умолчанию: '' - Каталог (относительно outputDir) для хранения сгенерированных статических ресурсов (js, css, img, fonts).
-            outputDir: "dist", // "dist",
-            indexPath: "index.html", // "index.html", //умолч -'index.html'-относительно outputDir
-            filenameHashing: false,
-            */
+            '/vue-web-worker-fibonacci/dist' : '/',
+        //publicPath: isDev ? "./" : "/dist",
+        assetsDir: "./", // "./", //По умолчанию: '' - Каталог (относительно outputDir) для хранения сгенерированных статических ресурсов (js, css, img, fonts).
+        outputDir: "dist", // "dist",
+        indexPath: "index.html", // "index.html", //умолч -'index.html'-относительно outputDir
+        filenameHashing: false,
     }
     /*
     module.exports = {
