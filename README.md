@@ -1,5 +1,5 @@
 # vue-webworkers
-<a href="https://abhorrent-spy.surge.sh" target="_blank">
+<a href="https://kostia7alania.github.io/vue-web-worker-fibonacci/dist/" target="_blank">
     DEMO
 </a>
 <img src="./dist/img/vue-worker.png">
