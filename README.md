@@ -1,6 +1,8 @@
 # vue-webworkers
+<a href="https://abhorrent-spy.surge.sh" target="_blank">
+    DEMO
+</a>
 <img src="./dist/img/vue-worker.png">
-
 <img src="./dist/img/screen-vue-worker.png">
 ## Project setup
 ```
