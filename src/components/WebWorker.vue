@@ -50,7 +50,7 @@ export default {
     },
     startWorker() {
       this.arr = [];
-      this.worker = new Worker('./worker.js')
+      this.worker = new Worker('/vue-web-worker-fibonacci/dist/worker.js')
       this.worker.addEventListener('message', this.onMessage)
       this.startedAt = +new Date();
       this.worker.postMessage( { start: true } )
