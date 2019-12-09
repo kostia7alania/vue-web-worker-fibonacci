@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-web-worker-fibonacci/dist/precache-manifest.1da3591dbf2cc19f05e2608308ff88ed.js"
+  "/vue-web-worker-fibonacci/dist/precache-manifest.a94a5c690a46dd83f513ac3e10ba5e57.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-webworkers"});
